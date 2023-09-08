@@ -31,7 +31,7 @@ Considerations will be soon published here.
 
 ---
 
-#### [1568-1670-ND Moisture sensor](https://www.digikey.com/en/products/detail/digilent-inc/410-380/9445906)
+#### [1568-1670-ND Moisture sensor](https://www.digikey.com/en/products/detail/sparkfun-electronics/SEN-13637/7400839)
 
 Considerations will be soon published here.
 
