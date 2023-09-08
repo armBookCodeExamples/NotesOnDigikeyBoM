@@ -25,7 +25,7 @@ Considerations will be soon published here.
 
 ---
 
-#### [1286-1200-ND Relay Module](https://www.digikey.com/en/products/detail/digilent-inc/410-380/9445906)
+#### [1286-1200-ND SD Card Module](https://www.digikey.com/en/products/detail/digilent-inc/410-380/9445906)
 
 Considerations will be soon published here.
 
