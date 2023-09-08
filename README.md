@@ -1,9 +1,9 @@
 ## Notes on DigiKey BoM 
 
-The notes below refer to some of the parts included in this BoM:
+The notes below refer to this Bill of Materials (BoM):
 - https://www.digikey.com/en/resources/edu/arm-education-media/embedded-designs-textbook
 
-These parts are not the same as the parts included in the "Bill of Materials" section of the book, but replacements that can be safely used if the following considerations are taken into account:
+Most of the parts on that BoM are exactly the same as in the book. However, a few of the parts on DigiKey BoM are not exactly the same as the parts included in the "Bill of Materials" section of the book, but very similar replacements that can be safely used if the following considerations are taken into account:
 
 ---
 
