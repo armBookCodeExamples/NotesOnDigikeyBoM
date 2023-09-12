@@ -27,7 +27,7 @@ Considerations will be soon published here.
 Here it is all the information on the [1597-1647-ND Relay Module](https://wiki.seeedstudio.com/Grove-2-Channel_SPDT_Relay/).  
 This module has the following schematic:
 
-<img src="https://github.com/armBookCodeExamples/NotesOnDigikeyBoM/blob/main/1597-1647-ND-Relay-Module.png" width="600">
+<img src="https://github.com/armBookCodeExamples/NotesOnDigikeyBoM/blob/main/1597-1647-ND-Relay-Module-new.png" width="600">
 
 It has not optocouplers, as the relay module that is used in the book:
 
