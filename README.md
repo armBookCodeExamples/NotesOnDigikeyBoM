@@ -44,7 +44,7 @@ The pinout of the 1286-1200-ND SD Card Module can be seen here: [link](https://m
 
 The correspondence with the module used in the book:
 
-<img src="https://github.com/armBookCodeExamples/NotesOnDigikeyBoM/blob/main/Figure9-3.png" width="600">
+<img src="https://github.com/armBookCodeExamples/NotesOnDigikeyBoM/blob/main/Figure9-3.png" width="400">
 
 Is as follows:
 
