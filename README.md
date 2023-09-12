@@ -18,7 +18,8 @@ The differences are:
 
 #### [1597-1182-ND HC-SR501 PIR Sensor Module](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/101020060/5487425)
 
-Considerations will be soon published here.
+This module is based on the same sensor as the PIR sensor used in the book, but it is has not the Sensitivity and Time Delay adjustments.  
+We aim to replace soon this part in the DigiKey BoM with this one: [PIR Motion sensor module](https://www.seeedstudio.com/PIR-Motion-sensor-module-p-74.html)
 
 ---
 
