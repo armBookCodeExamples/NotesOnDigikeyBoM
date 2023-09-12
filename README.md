@@ -1,6 +1,6 @@
-## Notes on DigiKey BoM 
+## Buy the whole Bill of Materials (BoM) with one click
 
-The notes below refer to this Bill of Materials (BoM):
+You are able to buy all the materials used in the book easily here:
 - https://www.digikey.com/en/resources/edu/arm-education-media/embedded-designs-textbook
 
 Most of the parts on that BoM are exactly the same as in the book. However, a few of the parts on DigiKey BoM are not exactly the same as the parts included in the "Bill of Materials" section of the book, but very similar replacements that can be safely used if the following considerations are taken into account:
